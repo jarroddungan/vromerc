@@ -1,6 +1,13 @@
 map j 15j
 map k 15k
 
+"left and right tabs
+map hh gT
+map ll gt
+
+"close current tab
+map dd D
+
 "search engines
 set searchengines={"google":"http://www.google.com/search?q={{keyword}}","wikipedia":"http://en.wikipedia.org/wiki/{{keyword}}","co":"https://chartonline.kvc.org/{{keyword}}"}
 
