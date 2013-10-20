@@ -1,9 +1,6 @@
 map j 15j
 map k 15k
 
-"left and right tabs
-map hh gT
-map ll gt
 
 "close current tab
 map dd D
