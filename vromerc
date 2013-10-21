@@ -6,6 +6,6 @@ map k 15k
 map dd D
 
 "search engines
-set searchengines={"google":"http://www.google.com/search?q={{keyword}}","wikipedia":"http://en.wikipedia.org/wiki/{{keyword}}","co":"https://chartonline.kvc.org/{{keyword}}","beanstalk":"https://kvc.beanstalkapp.com","sifter":"https://kvc.sifterapp.com","github","https://github.com/jarroddungan"}
+set searchengines={"google":"http://www.google.com/search?q={{keyword}}","wikipedia":"http://en.wikipedia.org/wiki/{{keyword}}","co":"https://chartonline.kvc.org/{{keyword}}","beanstalk":"https://kvc.beanstalkapp.com","sifter":"https://kvc.sifterapp.com","github":"https://github.com/jarroddungan"}
 
 
